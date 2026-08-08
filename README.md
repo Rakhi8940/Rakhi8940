@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rakhi Yadav
 
 Welcome to my GitHub profile!  
-I’m a passionate student at **Madhav Institute of Technology and Science, Gwalior (MITS Gwalior)**, specializing in **IoT** (Internet of Things), with a keen interest in **Data Science** and **Frontend Development**.  
+I’m a passionate student at **Madhav Institute of Technology and Science, Gwalior (MITS Gwalior)**, specializing in **IoT** (Internet of Things), with a keen interest in **Data Science** and **Front[...]**
 I believe in learning by doing, building creative solutions, and sharing knowledge with the world.
 
 ---
@@ -45,30 +45,42 @@ I believe in learning by doing, building creative solutions, and sharing knowled
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Data Analyst Focus)
 
-### 🧳 AIoTravel Kit
-*An intelligent trip planning and exploration platform:*
-- Seamless IoT integration for real-time location and safety tracking
-- Predictive analytics for route optimization and travel suggestions
-- User-friendly dashboard, AI-powered chat support, and personalized itinerary builder
-- Technologies: ReactJS, NodeMCU, Google Maps API, Python, RESTful APIs
+### 📊 Sales Performance Dashboard
+*A comprehensive dashboard to monitor sales KPIs and trends.*
+- Cleaned and processed transactional sales data using Pandas and SQL
+- Built interactive visualizations (time series, heatmaps, funnel charts) with Plotly and Tableau
+- Implemented cohort analysis, customer segmentation, and key-metric tracking (MRR, ARPU)
+- Outcome: Identified underperforming regions and actionable strategies to improve conversion
+- Technologies: Python (Pandas, NumPy), SQL, Plotly, Tableau
 
-### 🏡 Complete Home Automation
-- Automates lighting, appliances, security, and climate using IoT sensors and microcontrollers
-- Mobile/web interface for remote monitoring and control
-- Voice command integration (Google Assistant/Alexa)
-- Technologies: Arduino, ESP32, Blynk, Firebase
+### 🔎 Customer Churn Analysis
+*Predicting and analyzing customer churn to reduce attrition.*
+- Performed EDA, feature engineering (RFM, behavioral metrics), and imbalance handling
+- Trained classification models (Logistic Regression, Random Forest, XGBoost) and interpreted using SHAP
+- Delivered a report with retention strategies and a prioritized list of at-risk customers
+- Technologies: Python (scikit-learn, imbalanced-learn), SHAP, Pandas, Matplotlib
 
-### 🌱 Smart Irrigation System
-- Soil moisture & weather-based automated irrigation using IoT sensors
-- Real-time alerts and analytics dashboard for water conservation
-- Technologies: NodeMCU, DHT11, soil sensors, ThingSpeak
+### 🧾 Market Basket & Association Analysis
+*Discovering product affinity and cross-sell opportunities from transaction logs.*
+- Conducted association rule mining (Apriori, FP-Growth) and lift/confidence analysis
+- Visualized itemsets and recommendation rules to support promotions and bundling
+- Technologies: Python (mlxtend), Pandas, Seaborn
 
-### ☁️ Smart Weather Monitoring
-- Collects real-time environmental data (temperature, humidity, air quality)
-- Visualizes trends and sends alerts for extreme conditions
-- Technologies: Raspberry Pi, Python, MQTT, Cloud dashboard
+### 📈 Time Series Forecasting for Demand Planning
+*Short-term demand forecasting to optimize inventory and reduce stockouts.*
+- Processed and decomposed time series, handled seasonality and holidays
+- Built forecasting models: ARIMA/SARIMA, Prophet, and LSTM for comparison
+- Evaluated models using MAE, RMSE, and MAPE; delivered forecast pipeline and dashboard
+- Technologies: Python (statsmodels, Prophet, Keras), Pandas
+
+### 🧪 A/B Testing & Experiment Analysis
+*Designing and analyzing controlled experiments to improve product metrics.*
+- Defined experiment metrics, performed power analysis, and cleaned experiment telemetry
+- Applied hypothesis testing, uplift modeling, and sequential testing where applicable
+- Presented results with confidence intervals and business recommendations
+- Technologies: Python (statsmodels), SQL, Jupyter Notebooks
 
 ---
 
